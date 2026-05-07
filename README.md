@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Moustafa Shokry</h1>
+<h3 align="center">Frontend & Cross-Platform Mobile Developer Using React.js & Flutter Developer | Building responsive web and mobile apps with clean architecture, modern UI, state management, and API integration. ITI Graduate passionate about creating real-world digital products.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moustafa102&label=Profile%20views&color=0e75b6&style=flat" alt="moustafa102" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://moustafa-shokry-portfolio.vercel.app/](https://moustafa-shokry-portfolio.vercel.app/)
+
+- 📫 How to reach me **moustafa.magdyshokry@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/moustafa-shokry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/moustafa-shokry" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="left">
